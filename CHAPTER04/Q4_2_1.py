@@ -1,4 +1,3 @@
-
 #  textbook_question
 def number_to_day(num=0):
     """任意の整数が与えられたら今日、昨日、明日、それ以外を判定して返す関数"""
@@ -11,6 +10,3 @@ def number_to_day(num=0):
     else:
         day = "over_one_day"
     return day
-
-
-
